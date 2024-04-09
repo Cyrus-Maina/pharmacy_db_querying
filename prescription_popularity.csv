@@ -1,0 +1,58 @@
+medication_id,medication_name,times_prescribed,DoctorID_with_highest_count
+1,Furosemide,4,6
+2,"Hydrocortisone Maximum Strength with Aloe",4,7
+6,"CENTER-AL - ACACIA LONGIFOLIA POLLEN",4,8
+53,Levetiracetam,4,8
+3,"Esomeprazole strontium",3,3
+4,"Clonidine Hydrochloride",3,6
+5,"Benztropine Mesylate",3,5
+24,"Mineral Oil",3,6
+50,"benztropine mesylate",3,8
+51,Lisinopril,3,6
+43,Amoxicillin,3,7
+42,"Neutrogena Revitalizing Lip Balm",3,7
+41,"Multi Vitamin with Fluoride",3,4
+40,"Isosorbide Dinitrate",3,4
+39,"Puri-San Plus",3,3
+38,"Ampicillin and Sulbactam",3,8
+32,simvastatin,3,8
+31,"fexofenadine hydrochloride",3,8
+30,"Hemo Fin",3,8
+25,Diocto,3,5
+26,HEMORRHOIDS,3,6
+27,"SPF 30 Sunscreen",3,7
+29,"Orphenadrine Citrate",3,8
+28,INVOKAMET,3,8
+52,Levofloxacin,3,7
+54,"Pain Relief PM",3,6
+59,Dermazene,3,6
+23,Primidone,2,7
+8,"NovoLog Mix 70/30",2,8
+33,"Levothyroxine Sodium",2,8
+34,PredniSONE,2,4
+35,"Zylast XP Antiseptic Foaming",2,5
+36,Minitran,2,6
+37,ibuprofen,2,8
+44,"FungiClear Natural",2,4
+45,"Nite Time",2,5
+46,"Saccharomyces cerevisiae",2,6
+47,"Fludarabine Phosphate",2,4
+48,"Belladonna Homaccord",2,7
+49,ASTHMA,2,7
+22,"Sertraline Hydrochloride",2,7
+7,"Alcohol Swab with Benzocaine",2,7
+19,Pentoxifylline,2,6
+20,"ACT Anticavity Fluoride Rinse Kids Scooby Doo",2,3
+58,Senna,2,8
+21,"Mometasone Furoate",2,7
+60,Nifedical,2,6
+14,"All Day Allergy Relief",1,4
+13,Lansoprazole,1,3
+12,"Zolpidem Tartrate",1,2
+9,"LEVOTHYROXINE SODIUM",1,1
+11,"HYDRALAZINE HYDROCHLORIDE",1,2
+10,Synthroid,1,1
+16,Clearasil,1,6
+18,"Natures Gate",1,8
+17,"Haloperidol Decanoate",1,7
+15,Glyburide,1,5
